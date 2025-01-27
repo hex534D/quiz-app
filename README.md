@@ -1,6 +1,6 @@
 ## Quiz app
 
-Simple Quiz app using localstorage and tailwind
+Static Quiz app using vite and tailwind
 
 ## Getting Started
 
